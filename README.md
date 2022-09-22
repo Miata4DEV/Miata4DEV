@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/456857241593708554">
-     <img src="https://discord.c99.nl/widget/theme-4/456857241593708554.png" alt="Geb#0420 ( 456857241593708554 )"/>
+  <a href="https://discord.com/users/801402072363958282">
+     <img src="https://discord.c99.nl/widget/theme-4/456857241593708554.png" alt="Miata#2137 ( 801402072363958282 )"/>
        </a>
 </p>
 
