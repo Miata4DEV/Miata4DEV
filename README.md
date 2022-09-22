@@ -9,6 +9,13 @@
 </p>
 
 <p align="center">
+  <a href="https://discord.com/users/456857241593708554">
+     <img src="https://discord.c99.nl/widget/theme-4/456857241593708554.png" alt="Geb#0420 ( 456857241593708554 )"/>
+       </a>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Miata4DEV">
   <a href="https://github.com/Miata4DEV">
   <img src="https://cdn.discordapp.com/attachments/1019298683323437096/1022233023615348746/7RMTXCi_3.png"/>
